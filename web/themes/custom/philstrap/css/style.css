@@ -1,0 +1,10 @@
+.name.navbar-brand {
+    font-size: 38px;
+    padding: 28px 15px;
+  }
+  .field.field--name-body.field--type-text-with-summary.field--label-hidden.field--item img {
+      width: 100%;
+  }
+  .main-container.container.js-quickedit-main-content {
+      margin-top: 120px;
+  }
